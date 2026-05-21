@@ -6,6 +6,5 @@ https://the-site-build.netlify.app/
 
 
 
-https://github.com/user-attachments/assets/952d9864-65d1-49fb-afb2-526e89e88365
 
 
